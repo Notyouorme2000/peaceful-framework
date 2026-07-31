@@ -1,0 +1,19 @@
+{
+  "name": "peaceful-framework",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "PeacefulFramework": {
+        "$path": "src/ReplicatedStorage/PeacefulFramework"
+      }
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      }
+    }
+  }
+}
