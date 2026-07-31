@@ -12,8 +12,8 @@ src/StarterPlayer/StarterPlayerScripts/   - client bootstrap
 
 ## Setup
 
-Use [Rojo](https://rojo.space) with `default.project.json`, or copy `src/` contents into matching Roblox services manually.
+Use [Rojo](https://rojo.space) with `default.project.json`, or copy the repo contents into the fitting services yourself.
 
 ## Usage
 
-See `src/ReplicatedStorage/PeacefulFramework/README.lua` for examples of every module.
+you can see `src/ReplicatedStorage/PeacefulFramework/README.lua` for examples of every module's usages

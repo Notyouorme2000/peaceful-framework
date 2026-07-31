@@ -1,5 +1,5 @@
 --[[
-PEACEFUL FRAMEWORK - usage examples
+PEACEFUL FRAMEWORK - heres some usage examples!
 
 
 FRAMEWORK (server)
